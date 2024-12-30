@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Crypto Tracker
 
 Real-time cryptocurrency tracking application with price charts and news.
@@ -28,3 +29,6 @@ Visit the live demo: https://ваш-username.github.io/crypto-tracker/
 ## API Credits
 - [CoinGecko](https://www.coingecko.com/en/api)
 - [CryptoCompare](https://min-api.cryptocompare.com/) 
+=======
+# crypto-tracker
+>>>>>>> 9ea28e7e2bf64679b37409b61460970bda9e34bd
