@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markets - Trust Crypto</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/markets.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo">
+                <img src="images/logo.svg" alt="Trust Crypto">
+                <span>Trust Crypto</span>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="markets.html" class="active">Markets</a></li>
+                <li><a href="news.html">News</a></li>
+            </ul>
+            <a href="https://t.me/TrustCrypto_robot" class="telegram-btn" target="_blank">
+                <img src="images/telegram.svg" alt="Telegram">
+                Trade with Bot
+            </a>
+        </div>
+    </nav>
+
+    <main class="markets-page">
+        <section class="markets-header">
+            <h1>Crypto Markets</h1>
+            <div class="market-filters">
+                <input type="text" placeholder="Search cryptocurrency..." id="search-crypto">
+                <select id="sort-by">
+                    <option value="rank">Rank</option>
+                    <option value="price">Price</option>
+                    <option value="change">24h Change</option>
+                </select>
+            </div>
+        </section>
+
+        <section class="markets-grid" id="markets-grid">
+            <!-- Динамически заполняется через JavaScript -->
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-logo">
+                <img src="images/logo.svg" alt="Trust Crypto">
+                <span>Trust Crypto</span>
+            </div>
+            <div class="footer-links">
+                <a href="privacy.html">Privacy Policy</a>
+                <a href="terms.html">Terms of Service</a>
+                <a href="contact.html">Contact</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+    <script src="js/markets.js"></script>
+</body>
+</html> 
