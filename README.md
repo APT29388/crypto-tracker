@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Crypto Tracker
 
 Real-time cryptocurrency tracking application with price charts and news.
@@ -19,7 +19,7 @@ Real-time cryptocurrency tracking application with price charts and news.
 - CryptoCompare API
 
 ## Live Demo
-Visit the live demo: https://ваш-username.github.io/crypto-tracker/
+Visit the live demo: https://APT29388.github.io/crypto-tracker/
 
 ## Installation
 1. Clone the repository
@@ -29,6 +29,4 @@ Visit the live demo: https://ваш-username.github.io/crypto-tracker/
 ## API Credits
 - [CoinGecko](https://www.coingecko.com/en/api)
 - [CryptoCompare](https://min-api.cryptocompare.com/) 
-=======
-# crypto-tracker
->>>>>>> 9ea28e7e2bf64679b37409b61460970bda9e34bd
+
